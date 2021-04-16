@@ -1,0 +1,881 @@
+Before action: 0
+Current player: 0
+Players in game: [0, 1, 2, 3]
+Direction: +
+Player 0: ['5c', '5h', '5s', '6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jh', 'Jc', 'Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['As', 'Ah', 'Ac', 'Ad', 'Ks', 'Kh', 'Kc', 'Kd', 'Qs', 'Qh', 'Qc', 'Qd', 'Js']
+Player 3: ['2d', '2c', '2h', '2s', '3d', '3c', '3h', '3s', '4d', '4c', '4h', '4s', '5d']
+Table: []
+To win player: 0
+---------------------------------
+Before action: 0
+Current player: 1
+Players in game: [0, 1, 2, 3]
+Direction: +
+Player 0: ['5h', '5s', '6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jh', 'Jc', 'Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['As', 'Ah', 'Ac', 'Ad', 'Ks', 'Kh', 'Kc', 'Kd', 'Qs', 'Qh', 'Qc', 'Qd', 'Js']
+Player 3: ['2d', '2c', '2h', '2s', '3d', '3c', '3h', '3s', '4d', '4c', '4h', '4s', '5d']
+Table: ['5c']
+To win player: 0
+---------------------------------
+Before action: 1
+Current player: 2
+Players in game: [0, 1, 2, 3]
+Direction: +
+Player 0: ['5h', '5s', '6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jc', 'Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['As', 'Ah', 'Ac', 'Ad', 'Ks', 'Kh', 'Kc', 'Kd', 'Qs', 'Qh', 'Qc', 'Qd', 'Js']
+Player 3: ['2d', '2c', '2h', '2s', '3d', '3c', '3h', '3s', '4d', '4c', '4h', '4s', '5d']
+Table: ['5c', 'Jh']
+To win player: 1
+---------------------------------
+Before action: 1
+Current player: 3
+Players in game: [0, 1, 2, 3]
+Direction: +
+Player 0: ['5h', '5s', '6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jc', 'Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['Ah', 'Ac', 'Ad', 'Ks', 'Kh', 'Kc', 'Kd', 'Qs', 'Qh', 'Qc', 'Qd', 'Js']
+Player 3: ['2d', '2c', '2h', '2s', '3d', '3c', '3h', '3s', '4d', '4c', '4h', '4s', '5d']
+Table: ['5c', 'Jh', 'As']
+To win player: 2
+---------------------------------
+Before action: 0
+Current player: 2
+Players in game: [0, 1, 2, 3]
+Direction: +
+Player 0: ['5h', '5s', '6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jc', 'Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['Ah', 'Ac', 'Ad', 'Ks', 'Kh', 'Kc', 'Kd', 'Qs', 'Qh', 'Qc', 'Qd', 'Js', '2d', 'As', 'Jh', '5c']
+Player 3: ['2c', '2h', '2s', '3d', '3c', '3h', '3s', '4d', '4c', '4h', '4s', '5d']
+Table: []
+To win player: 0
+---------------------------------
+Before action: 1
+Current player: 3
+Players in game: [0, 1, 2, 3]
+Direction: +
+Player 0: ['5h', '5s', '6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jc', 'Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['Ac', 'Ad', 'Ks', 'Kh', 'Kc', 'Kd', 'Qs', 'Qh', 'Qc', 'Qd', 'Js', '2d', 'As', 'Jh', '5c']
+Player 3: ['2c', '2h', '2s', '3d', '3c', '3h', '3s', '4d', '4c', '4h', '4s', '5d']
+Table: ['Ah']
+To win player: 2
+---------------------------------
+Before action: 0
+Current player: 2
+Players in game: [0, 1, 2, 3]
+Direction: +
+Player 0: ['5h', '5s', '6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jc', 'Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['Ac', 'Ad', 'Ks', 'Kh', 'Kc', 'Kd', 'Qs', 'Qh', 'Qc', 'Qd', 'Js', '2d', 'As', 'Jh', '5c', '2c', 'Ah']
+Player 3: ['2h', '2s', '3d', '3c', '3h', '3s', '4d', '4c', '4h', '4s', '5d']
+Table: []
+To win player: 0
+---------------------------------
+Before action: 1
+Current player: 3
+Players in game: [0, 1, 2, 3]
+Direction: +
+Player 0: ['5h', '5s', '6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jc', 'Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['Ad', 'Ks', 'Kh', 'Kc', 'Kd', 'Qs', 'Qh', 'Qc', 'Qd', 'Js', '2d', 'As', 'Jh', '5c', '2c', 'Ah']
+Player 3: ['2h', '2s', '3d', '3c', '3h', '3s', '4d', '4c', '4h', '4s', '5d']
+Table: ['Ac']
+To win player: 2
+---------------------------------
+Before action: 0
+Current player: 2
+Players in game: [0, 1, 2, 3]
+Direction: +
+Player 0: ['5h', '5s', '6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jc', 'Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['Ad', 'Ks', 'Kh', 'Kc', 'Kd', 'Qs', 'Qh', 'Qc', 'Qd', 'Js', '2d', 'As', 'Jh', '5c', '2c', 'Ah', '2h', 'Ac']
+Player 3: ['2s', '3d', '3c', '3h', '3s', '4d', '4c', '4h', '4s', '5d']
+Table: []
+To win player: 0
+---------------------------------
+Before action: 1
+Current player: 3
+Players in game: [0, 1, 2, 3]
+Direction: +
+Player 0: ['5h', '5s', '6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jc', 'Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['Ks', 'Kh', 'Kc', 'Kd', 'Qs', 'Qh', 'Qc', 'Qd', 'Js', '2d', 'As', 'Jh', '5c', '2c', 'Ah', '2h', 'Ac']
+Player 3: ['2s', '3d', '3c', '3h', '3s', '4d', '4c', '4h', '4s', '5d']
+Table: ['Ad']
+To win player: 2
+---------------------------------
+Before action: 0
+Current player: 2
+Players in game: [0, 1, 2, 3]
+Direction: +
+Player 0: ['5h', '5s', '6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jc', 'Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['Ks', 'Kh', 'Kc', 'Kd', 'Qs', 'Qh', 'Qc', 'Qd', 'Js', '2d', 'As', 'Jh', '5c', '2c', 'Ah', '2h', 'Ac', '2s', 'Ad']
+Player 3: ['3d', '3c', '3h', '3s', '4d', '4c', '4h', '4s', '5d']
+Table: []
+To win player: 0
+---------------------------------
+Before action: 1
+Current player: 3
+Players in game: [0, 1, 2, 3]
+Direction: +
+Player 0: ['5h', '5s', '6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jc', 'Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['Kh', 'Kc', 'Kd', 'Qs', 'Qh', 'Qc', 'Qd', 'Js', '2d', 'As', 'Jh', '5c', '2c', 'Ah', '2h', 'Ac', '2s', 'Ad']
+Player 3: ['3d', '3c', '3h', '3s', '4d', '4c', '4h', '4s', '5d']
+Table: ['Ks']
+To win player: 2
+---------------------------------
+Before action: 0
+Current player: 2
+Players in game: [0, 1, 2, 3]
+Direction: +
+Player 0: ['5h', '5s', '6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jc', 'Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['Kh', 'Kc', 'Kd', 'Qs', 'Qh', 'Qc', 'Qd', 'Js', '2d', 'As', 'Jh', '5c', '2c', 'Ah', '2h', 'Ac', '2s', 'Ad', '3d', 'Ks']
+Player 3: ['3c', '3h', '3s', '4d', '4c', '4h', '4s', '5d']
+Table: []
+To win player: 0
+---------------------------------
+Before action: 1
+Current player: 3
+Players in game: [0, 1, 2, 3]
+Direction: +
+Player 0: ['5h', '5s', '6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jc', 'Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['Kc', 'Kd', 'Qs', 'Qh', 'Qc', 'Qd', 'Js', '2d', 'As', 'Jh', '5c', '2c', 'Ah', '2h', 'Ac', '2s', 'Ad', '3d', 'Ks']
+Player 3: ['3c', '3h', '3s', '4d', '4c', '4h', '4s', '5d']
+Table: ['Kh']
+To win player: 2
+---------------------------------
+Before action: 0
+Current player: 2
+Players in game: [0, 1, 2, 3]
+Direction: +
+Player 0: ['5h', '5s', '6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jc', 'Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['Kc', 'Kd', 'Qs', 'Qh', 'Qc', 'Qd', 'Js', '2d', 'As', 'Jh', '5c', '2c', 'Ah', '2h', 'Ac', '2s', 'Ad', '3d', 'Ks', '3c', 'Kh']
+Player 3: ['3h', '3s', '4d', '4c', '4h', '4s', '5d']
+Table: []
+To win player: 0
+---------------------------------
+Before action: 1
+Current player: 3
+Players in game: [0, 1, 2, 3]
+Direction: +
+Player 0: ['5h', '5s', '6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jc', 'Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['Kd', 'Qs', 'Qh', 'Qc', 'Qd', 'Js', '2d', 'As', 'Jh', '5c', '2c', 'Ah', '2h', 'Ac', '2s', 'Ad', '3d', 'Ks', '3c', 'Kh']
+Player 3: ['3h', '3s', '4d', '4c', '4h', '4s', '5d']
+Table: ['Kc']
+To win player: 2
+---------------------------------
+Before action: 0
+Current player: 2
+Players in game: [0, 1, 2, 3]
+Direction: +
+Player 0: ['5h', '5s', '6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jc', 'Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['Kd', 'Qs', 'Qh', 'Qc', 'Qd', 'Js', '2d', 'As', 'Jh', '5c', '2c', 'Ah', '2h', 'Ac', '2s', 'Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc']
+Player 3: ['3s', '4d', '4c', '4h', '4s', '5d']
+Table: []
+To win player: 0
+---------------------------------
+Before action: 1
+Current player: 3
+Players in game: [0, 1, 2, 3]
+Direction: +
+Player 0: ['5h', '5s', '6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jc', 'Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['Qs', 'Qh', 'Qc', 'Qd', 'Js', '2d', 'As', 'Jh', '5c', '2c', 'Ah', '2h', 'Ac', '2s', 'Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc']
+Player 3: ['3s', '4d', '4c', '4h', '4s', '5d']
+Table: ['Kd']
+To win player: 2
+---------------------------------
+Before action: 0
+Current player: 2
+Players in game: [0, 1, 2, 3]
+Direction: +
+Player 0: ['5h', '5s', '6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jc', 'Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['Qs', 'Qh', 'Qc', 'Qd', 'Js', '2d', 'As', 'Jh', '5c', '2c', 'Ah', '2h', 'Ac', '2s', 'Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd']
+Player 3: ['4d', '4c', '4h', '4s', '5d']
+Table: []
+To win player: 0
+---------------------------------
+Before action: 1
+Current player: 3
+Players in game: [0, 1, 2, 3]
+Direction: +
+Player 0: ['5h', '5s', '6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jc', 'Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['Qh', 'Qc', 'Qd', 'Js', '2d', 'As', 'Jh', '5c', '2c', 'Ah', '2h', 'Ac', '2s', 'Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd']
+Player 3: ['4d', '4c', '4h', '4s', '5d']
+Table: ['Qs']
+To win player: 2
+---------------------------------
+Before action: 0
+Current player: 2
+Players in game: [0, 1, 2, 3]
+Direction: +
+Player 0: ['5h', '5s', '6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jc', 'Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['Qh', 'Qc', 'Qd', 'Js', '2d', 'As', 'Jh', '5c', '2c', 'Ah', '2h', 'Ac', '2s', 'Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs']
+Player 3: ['4c', '4h', '4s', '5d']
+Table: []
+To win player: 0
+---------------------------------
+Before action: 1
+Current player: 3
+Players in game: [0, 1, 2, 3]
+Direction: +
+Player 0: ['5h', '5s', '6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jc', 'Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['Qc', 'Qd', 'Js', '2d', 'As', 'Jh', '5c', '2c', 'Ah', '2h', 'Ac', '2s', 'Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs']
+Player 3: ['4c', '4h', '4s', '5d']
+Table: ['Qh']
+To win player: 2
+---------------------------------
+Before action: 0
+Current player: 2
+Players in game: [0, 1, 2, 3]
+Direction: +
+Player 0: ['5h', '5s', '6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jc', 'Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['Qc', 'Qd', 'Js', '2d', 'As', 'Jh', '5c', '2c', 'Ah', '2h', 'Ac', '2s', 'Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh']
+Player 3: ['4h', '4s', '5d']
+Table: []
+To win player: 0
+---------------------------------
+Before action: 1
+Current player: 3
+Players in game: [0, 1, 2, 3]
+Direction: +
+Player 0: ['5h', '5s', '6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jc', 'Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['Qd', 'Js', '2d', 'As', 'Jh', '5c', '2c', 'Ah', '2h', 'Ac', '2s', 'Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh']
+Player 3: ['4h', '4s', '5d']
+Table: ['Qc']
+To win player: 2
+---------------------------------
+Before action: 0
+Current player: 2
+Players in game: [0, 1, 2, 3]
+Direction: +
+Player 0: ['5h', '5s', '6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jc', 'Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['Qd', 'Js', '2d', 'As', 'Jh', '5c', '2c', 'Ah', '2h', 'Ac', '2s', 'Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc']
+Player 3: ['4s', '5d']
+Table: []
+To win player: 0
+---------------------------------
+Before action: 1
+Current player: 3
+Players in game: [0, 1, 2, 3]
+Direction: +
+Player 0: ['5h', '5s', '6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jc', 'Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['Js', '2d', 'As', 'Jh', '5c', '2c', 'Ah', '2h', 'Ac', '2s', 'Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc']
+Player 3: ['4s', '5d']
+Table: ['Qd']
+To win player: 2
+---------------------------------
+Before action: 0
+Current player: 2
+Players in game: [0, 1, 2, 3]
+Direction: +
+Player 0: ['5h', '5s', '6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jc', 'Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['Js', '2d', 'As', 'Jh', '5c', '2c', 'Ah', '2h', 'Ac', '2s', 'Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd']
+Player 3: ['5d']
+Table: []
+To win player: 0
+---------------------------------
+Before action: 1
+Current player: 3
+Players in game: [0, 1, 2, 3]
+Direction: +
+Player 0: ['5h', '5s', '6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jc', 'Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['2d', 'As', 'Jh', '5c', '2c', 'Ah', '2h', 'Ac', '2s', 'Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd']
+Player 3: ['5d']
+Table: ['Js']
+To win player: 2
+---------------------------------
+Before action: 0
+Current player: 2
+Players in game: [0, 1, 2]
+Direction: +
+Player 0: ['5h', '5s', '6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jc', 'Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['2d', 'As', 'Jh', '5c', '2c', 'Ah', '2h', 'Ac', '2s', 'Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js']
+Player 3: []
+Table: []
+To win player: 0
+---------------------------------
+Before action: 0
+Current player: 0
+Players in game: [0, 1, 2]
+Direction: +
+Player 0: ['5h', '5s', '6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jc', 'Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['As', 'Jh', '5c', '2c', 'Ah', '2h', 'Ac', '2s', 'Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js']
+Player 3: []
+Table: ['2d']
+To win player: 0
+---------------------------------
+Before action: 0
+Current player: 1
+Players in game: [0, 1, 2]
+Direction: +
+Player 0: ['5s', '6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jc', 'Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['As', 'Jh', '5c', '2c', 'Ah', '2h', 'Ac', '2s', 'Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js']
+Player 3: []
+Table: ['2d', '5h']
+To win player: 0
+---------------------------------
+Before action: 1
+Current player: 2
+Players in game: [0, 1, 2]
+Direction: +
+Player 0: ['5s', '6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['As', 'Jh', '5c', '2c', 'Ah', '2h', 'Ac', '2s', 'Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js']
+Player 3: []
+Table: ['2d', '5h', 'Jc']
+To win player: 1
+---------------------------------
+Before action: 1
+Current player: 0
+Players in game: [0, 1, 2]
+Direction: +
+Player 0: ['5s', '6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['Jh', '5c', '2c', 'Ah', '2h', 'Ac', '2s', 'Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js']
+Player 3: []
+Table: ['2d', '5h', 'Jc', 'As']
+To win player: 2
+---------------------------------
+Before action: 0
+Current player: 2
+Players in game: [0, 1, 2]
+Direction: +
+Player 0: ['6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['Jh', '5c', '2c', 'Ah', '2h', 'Ac', '2s', 'Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d']
+Player 3: []
+Table: []
+To win player: 0
+---------------------------------
+Before action: 1
+Current player: 0
+Players in game: [0, 1, 2]
+Direction: +
+Player 0: ['6d', '6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['5c', '2c', 'Ah', '2h', 'Ac', '2s', 'Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d']
+Player 3: []
+Table: ['Jh']
+To win player: 2
+---------------------------------
+Before action: 0
+Current player: 2
+Players in game: [0, 1, 2]
+Direction: +
+Player 0: ['6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['5c', '2c', 'Ah', '2h', 'Ac', '2s', 'Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh']
+Player 3: []
+Table: []
+To win player: 0
+---------------------------------
+Before action: 0
+Current player: 0
+Players in game: [0, 1, 2]
+Direction: +
+Player 0: ['6c', '6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['2c', 'Ah', '2h', 'Ac', '2s', 'Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh']
+Player 3: []
+Table: ['5c']
+To win player: 0
+---------------------------------
+Before action: 0
+Current player: 1
+Players in game: [0, 1, 2]
+Direction: +
+Player 0: ['6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Jd', 'Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['2c', 'Ah', '2h', 'Ac', '2s', 'Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh']
+Player 3: []
+Table: ['5c', '6c']
+To win player: 0
+---------------------------------
+Before action: 1
+Current player: 2
+Players in game: [0, 1, 2]
+Direction: +
+Player 0: ['6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h']
+Player 2: ['2c', 'Ah', '2h', 'Ac', '2s', 'Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh']
+Player 3: []
+Table: ['5c', '6c', 'Jd']
+To win player: 1
+---------------------------------
+Before action: 0
+Current player: 1
+Players in game: [0, 1, 2]
+Direction: +
+Player 0: ['6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Ts', 'Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h', '2c', 'Jd', '6c', '5c']
+Player 2: ['Ah', '2h', 'Ac', '2s', 'Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh']
+Player 3: []
+Table: []
+To win player: 0
+---------------------------------
+Before action: 0
+Current player: 2
+Players in game: [0, 1, 2]
+Direction: +
+Player 0: ['6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h', '2c', 'Jd', '6c', '5c']
+Player 2: ['Ah', '2h', 'Ac', '2s', 'Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh']
+Player 3: []
+Table: ['Ts']
+To win player: 0
+---------------------------------
+Before action: 1
+Current player: 0
+Players in game: [0, 1, 2]
+Direction: +
+Player 0: ['6h', '6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h', '2c', 'Jd', '6c', '5c']
+Player 2: ['2h', 'Ac', '2s', 'Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh']
+Player 3: []
+Table: ['Ts', 'Ah']
+To win player: 2
+---------------------------------
+Before action: 0
+Current player: 2
+Players in game: [0, 1, 2]
+Direction: +
+Player 0: ['6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h', '2c', 'Jd', '6c', '5c']
+Player 2: ['2h', 'Ac', '2s', 'Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts']
+Player 3: []
+Table: []
+To win player: 0
+---------------------------------
+Before action: 0
+Current player: 0
+Players in game: [0, 1, 2]
+Direction: +
+Player 0: ['6s', '7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h', '2c', 'Jd', '6c', '5c']
+Player 2: ['Ac', '2s', 'Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts']
+Player 3: []
+Table: ['2h']
+To win player: 0
+---------------------------------
+Before action: 0
+Current player: 1
+Players in game: [0, 1, 2]
+Direction: +
+Player 0: ['7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Th', 'Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h', '2c', 'Jd', '6c', '5c']
+Player 2: ['Ac', '2s', 'Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts']
+Player 3: []
+Table: ['2h', '6s']
+To win player: 0
+---------------------------------
+Before action: 0
+Current player: 2
+Players in game: [0, 1, 2]
+Direction: +
+Player 0: ['7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h', '2c', 'Jd', '6c', '5c']
+Player 2: ['Ac', '2s', 'Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts']
+Player 3: []
+Table: ['2h', '6s', 'Th']
+To win player: 0
+---------------------------------
+Before action: 1
+Current player: 0
+Players in game: [0, 1, 2]
+Direction: +
+Player 0: ['7d', '7c', '7h', '7s', '8d', '8c']
+Player 1: ['Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h', '2c', 'Jd', '6c', '5c']
+Player 2: ['2s', 'Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts']
+Player 3: []
+Table: ['2h', '6s', 'Th', 'Ac']
+To win player: 2
+---------------------------------
+Before action: 0
+Current player: 2
+Players in game: [0, 1, 2]
+Direction: +
+Player 0: ['7c', '7h', '7s', '8d', '8c']
+Player 1: ['Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h', '2c', 'Jd', '6c', '5c']
+Player 2: ['2s', 'Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts', '7d', 'Ac', 'Th', '6s', '2h']
+Player 3: []
+Table: []
+To win player: 0
+---------------------------------
+Before action: 0
+Current player: 0
+Players in game: [0, 1, 2]
+Direction: +
+Player 0: ['7c', '7h', '7s', '8d', '8c']
+Player 1: ['Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h', '2c', 'Jd', '6c', '5c']
+Player 2: ['Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts', '7d', 'Ac', 'Th', '6s', '2h']
+Player 3: []
+Table: ['2s']
+To win player: 0
+---------------------------------
+Before action: 0
+Current player: 1
+Players in game: [0, 1, 2]
+Direction: +
+Player 0: ['7h', '7s', '8d', '8c']
+Player 1: ['Tc', 'Td', '9s', '9h', '9c', '9d', '8s', '8h', '2c', 'Jd', '6c', '5c']
+Player 2: ['Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts', '7d', 'Ac', 'Th', '6s', '2h']
+Player 3: []
+Table: ['2s', '7c']
+To win player: 0
+---------------------------------
+Before action: 0
+Current player: 2
+Players in game: [0, 1, 2]
+Direction: +
+Player 0: ['7h', '7s', '8d', '8c']
+Player 1: ['Td', '9s', '9h', '9c', '9d', '8s', '8h', '2c', 'Jd', '6c', '5c']
+Player 2: ['Ad', '3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts', '7d', 'Ac', 'Th', '6s', '2h']
+Player 3: []
+Table: ['2s', '7c', 'Tc']
+To win player: 0
+---------------------------------
+Before action: 1
+Current player: 0
+Players in game: [0, 1, 2]
+Direction: +
+Player 0: ['7h', '7s', '8d', '8c']
+Player 1: ['Td', '9s', '9h', '9c', '9d', '8s', '8h', '2c', 'Jd', '6c', '5c']
+Player 2: ['3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts', '7d', 'Ac', 'Th', '6s', '2h']
+Player 3: []
+Table: ['2s', '7c', 'Tc', 'Ad']
+To win player: 2
+---------------------------------
+Before action: 0
+Current player: 2
+Players in game: [0, 1, 2]
+Direction: +
+Player 0: ['7s', '8d', '8c']
+Player 1: ['Td', '9s', '9h', '9c', '9d', '8s', '8h', '2c', 'Jd', '6c', '5c']
+Player 2: ['3d', 'Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts', '7d', 'Ac', 'Th', '6s', '2h', '7h', 'Ad', 'Tc', '7c', '2s']
+Player 3: []
+Table: []
+To win player: 0
+---------------------------------
+Before action: 0
+Current player: 0
+Players in game: [0, 1, 2]
+Direction: +
+Player 0: ['7s', '8d', '8c']
+Player 1: ['Td', '9s', '9h', '9c', '9d', '8s', '8h', '2c', 'Jd', '6c', '5c']
+Player 2: ['Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts', '7d', 'Ac', 'Th', '6s', '2h', '7h', 'Ad', 'Tc', '7c', '2s']
+Player 3: []
+Table: ['3d']
+To win player: 0
+---------------------------------
+Before action: 0
+Current player: 1
+Players in game: [0, 1, 2]
+Direction: +
+Player 0: ['8d', '8c']
+Player 1: ['Td', '9s', '9h', '9c', '9d', '8s', '8h', '2c', 'Jd', '6c', '5c']
+Player 2: ['Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts', '7d', 'Ac', 'Th', '6s', '2h', '7h', 'Ad', 'Tc', '7c', '2s']
+Player 3: []
+Table: ['3d', '7s']
+To win player: 0
+---------------------------------
+Before action: 0
+Current player: 2
+Players in game: [0, 1, 2]
+Direction: +
+Player 0: ['8d', '8c']
+Player 1: ['9s', '9h', '9c', '9d', '8s', '8h', '2c', 'Jd', '6c', '5c']
+Player 2: ['Ks', '3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts', '7d', 'Ac', 'Th', '6s', '2h', '7h', 'Ad', 'Tc', '7c', '2s']
+Player 3: []
+Table: ['3d', '7s', 'Td']
+To win player: 0
+---------------------------------
+Before action: 1
+Current player: 0
+Players in game: [0, 1, 2]
+Direction: +
+Player 0: ['8d', '8c']
+Player 1: ['9s', '9h', '9c', '9d', '8s', '8h', '2c', 'Jd', '6c', '5c']
+Player 2: ['3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts', '7d', 'Ac', 'Th', '6s', '2h', '7h', 'Ad', 'Tc', '7c', '2s']
+Player 3: []
+Table: ['3d', '7s', 'Td', 'Ks']
+To win player: 2
+---------------------------------
+Before action: 1
+Current player: 1
+Players in game: [0, 1, 2]
+Direction: +
+Player 0: ['8c']
+Player 1: ['9s', '9h', '9c', '9d', '8s', '8h', '2c', 'Jd', '6c', '5c']
+Player 2: ['3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts', '7d', 'Ac', 'Th', '6s', '2h', '7h', 'Ad', 'Tc', '7c', '2s']
+Player 3: []
+Table: ['3d', '7s', 'Td', 'Ks', '8d']
+To win player: 2
+---------------------------------
+Before action: 0
+Current player: 2
+Players in game: [0, 1, 2]
+Direction: +
+Player 0: ['8c']
+Player 1: ['9h', '9c', '9d', '8s', '8h', '2c', 'Jd', '6c', '5c']
+Player 2: ['3c', 'Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts', '7d', 'Ac', 'Th', '6s', '2h', '7h', 'Ad', 'Tc', '7c', '2s', '9s', '8d', 'Ks', 'Td', '7s', '3d']
+Player 3: []
+Table: []
+To win player: 0
+---------------------------------
+Before action: 0
+Current player: 0
+Players in game: [0, 1, 2]
+Direction: +
+Player 0: ['8c']
+Player 1: ['9h', '9c', '9d', '8s', '8h', '2c', 'Jd', '6c', '5c']
+Player 2: ['Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts', '7d', 'Ac', 'Th', '6s', '2h', '7h', 'Ad', 'Tc', '7c', '2s', '9s', '8d', 'Ks', 'Td', '7s', '3d']
+Player 3: []
+Table: ['3c']
+To win player: 0
+---------------------------------
+Before action: 0
+Current player: 2
+Players in game: [1, 2]
+Direction: -
+Player 0: []
+Player 1: ['9h', '9c', '9d', '8s', '8h', '2c', 'Jd', '6c', '5c']
+Player 2: ['Kh', '3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts', '7d', 'Ac', 'Th', '6s', '2h', '7h', 'Ad', 'Tc', '7c', '2s', '9s', '8d', 'Ks', 'Td', '7s', '3d']
+Player 3: []
+Table: ['3c', '8c']
+To win player: 0
+---------------------------------
+Before action: 1
+Current player: 1
+Players in game: [1, 2]
+Direction: -
+Player 0: []
+Player 1: ['9h', '9c', '9d', '8s', '8h', '2c', 'Jd', '6c', '5c']
+Player 2: ['3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts', '7d', 'Ac', 'Th', '6s', '2h', '7h', 'Ad', 'Tc', '7c', '2s', '9s', '8d', 'Ks', 'Td', '7s', '3d']
+Player 3: []
+Table: ['3c', '8c', 'Kh']
+To win player: 2
+---------------------------------
+Before action: 0
+Current player: 2
+Players in game: [1, 2]
+Direction: -
+Player 0: []
+Player 1: ['9c', '9d', '8s', '8h', '2c', 'Jd', '6c', '5c']
+Player 2: ['3h', 'Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts', '7d', 'Ac', 'Th', '6s', '2h', '7h', 'Ad', 'Tc', '7c', '2s', '9s', '8d', 'Ks', 'Td', '7s', '3d', '9h', 'Kh', '8c', '3c']
+Player 3: []
+Table: []
+To win player: 0
+---------------------------------
+Before action: 0
+Current player: 1
+Players in game: [1, 2]
+Direction: -
+Player 0: []
+Player 1: ['9c', '9d', '8s', '8h', '2c', 'Jd', '6c', '5c']
+Player 2: ['Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts', '7d', 'Ac', 'Th', '6s', '2h', '7h', 'Ad', 'Tc', '7c', '2s', '9s', '8d', 'Ks', 'Td', '7s', '3d', '9h', 'Kh', '8c', '3c']
+Player 3: []
+Table: ['3h']
+To win player: 0
+---------------------------------
+Before action: 0
+Current player: 2
+Players in game: [1, 2]
+Direction: -
+Player 0: []
+Player 1: ['9d', '8s', '8h', '2c', 'Jd', '6c', '5c']
+Player 2: ['Kc', '3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts', '7d', 'Ac', 'Th', '6s', '2h', '7h', 'Ad', 'Tc', '7c', '2s', '9s', '8d', 'Ks', 'Td', '7s', '3d', '9h', 'Kh', '8c', '3c']
+Player 3: []
+Table: ['3h', '9c']
+To win player: 0
+---------------------------------
+Before action: 1
+Current player: 1
+Players in game: [1, 2]
+Direction: -
+Player 0: []
+Player 1: ['9d', '8s', '8h', '2c', 'Jd', '6c', '5c']
+Player 2: ['3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts', '7d', 'Ac', 'Th', '6s', '2h', '7h', 'Ad', 'Tc', '7c', '2s', '9s', '8d', 'Ks', 'Td', '7s', '3d', '9h', 'Kh', '8c', '3c']
+Player 3: []
+Table: ['3h', '9c', 'Kc']
+To win player: 2
+---------------------------------
+Before action: 0
+Current player: 2
+Players in game: [1, 2]
+Direction: -
+Player 0: []
+Player 1: ['8s', '8h', '2c', 'Jd', '6c', '5c']
+Player 2: ['3s', 'Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts', '7d', 'Ac', 'Th', '6s', '2h', '7h', 'Ad', 'Tc', '7c', '2s', '9s', '8d', 'Ks', 'Td', '7s', '3d', '9h', 'Kh', '8c', '3c', '9d', 'Kc', '9c', '3h']
+Player 3: []
+Table: []
+To win player: 0
+---------------------------------
+Before action: 0
+Current player: 1
+Players in game: [1, 2]
+Direction: -
+Player 0: []
+Player 1: ['8s', '8h', '2c', 'Jd', '6c', '5c']
+Player 2: ['Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts', '7d', 'Ac', 'Th', '6s', '2h', '7h', 'Ad', 'Tc', '7c', '2s', '9s', '8d', 'Ks', 'Td', '7s', '3d', '9h', 'Kh', '8c', '3c', '9d', 'Kc', '9c', '3h']
+Player 3: []
+Table: ['3s']
+To win player: 0
+---------------------------------
+Before action: 0
+Current player: 2
+Players in game: [1, 2]
+Direction: +
+Player 0: []
+Player 1: ['8h', '2c', 'Jd', '6c', '5c']
+Player 2: ['Kd', '4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts', '7d', 'Ac', 'Th', '6s', '2h', '7h', 'Ad', 'Tc', '7c', '2s', '9s', '8d', 'Ks', 'Td', '7s', '3d', '9h', 'Kh', '8c', '3c', '9d', 'Kc', '9c', '3h']
+Player 3: []
+Table: ['3s', '8s']
+To win player: 0
+---------------------------------
+Before action: 1
+Current player: 1
+Players in game: [1, 2]
+Direction: +
+Player 0: []
+Player 1: ['8h', '2c', 'Jd', '6c', '5c']
+Player 2: ['4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts', '7d', 'Ac', 'Th', '6s', '2h', '7h', 'Ad', 'Tc', '7c', '2s', '9s', '8d', 'Ks', 'Td', '7s', '3d', '9h', 'Kh', '8c', '3c', '9d', 'Kc', '9c', '3h']
+Player 3: []
+Table: ['3s', '8s', 'Kd']
+To win player: 2
+---------------------------------
+Before action: 1
+Current player: 2
+Players in game: [1, 2]
+Direction: +
+Player 0: []
+Player 1: ['2c', 'Jd', '6c', '5c']
+Player 2: ['4d', 'Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts', '7d', 'Ac', 'Th', '6s', '2h', '7h', 'Ad', 'Tc', '7c', '2s', '9s', '8d', 'Ks', 'Td', '7s', '3d', '9h', 'Kh', '8c', '3c', '9d', 'Kc', '9c', '3h']
+Player 3: []
+Table: ['3s', '8s', 'Kd', '8h']
+To win player: 2
+---------------------------------
+Before action: 0
+Current player: 2
+Players in game: [1, 2]
+Direction: +
+Player 0: []
+Player 1: ['2c', 'Jd', '6c', '5c']
+Player 2: ['Qs', '4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts', '7d', 'Ac', 'Th', '6s', '2h', '7h', 'Ad', 'Tc', '7c', '2s', '9s', '8d', 'Ks', 'Td', '7s', '3d', '9h', 'Kh', '8c', '3c', '9d', 'Kc', '9c', '3h', '4d', '8h', 'Kd', '8s', '3s']
+Player 3: []
+Table: []
+To win player: 0
+---------------------------------
+Before action: 1
+Current player: 1
+Players in game: [1, 2]
+Direction: +
+Player 0: []
+Player 1: ['2c', 'Jd', '6c', '5c']
+Player 2: ['4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts', '7d', 'Ac', 'Th', '6s', '2h', '7h', 'Ad', 'Tc', '7c', '2s', '9s', '8d', 'Ks', 'Td', '7s', '3d', '9h', 'Kh', '8c', '3c', '9d', 'Kc', '9c', '3h', '4d', '8h', 'Kd', '8s', '3s']
+Player 3: []
+Table: ['Qs']
+To win player: 2
+---------------------------------
+Before action: 0
+Current player: 2
+Players in game: [1, 2]
+Direction: +
+Player 0: []
+Player 1: ['Jd', '6c', '5c']
+Player 2: ['4c', 'Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts', '7d', 'Ac', 'Th', '6s', '2h', '7h', 'Ad', 'Tc', '7c', '2s', '9s', '8d', 'Ks', 'Td', '7s', '3d', '9h', 'Kh', '8c', '3c', '9d', 'Kc', '9c', '3h', '4d', '8h', 'Kd', '8s', '3s', '2c', 'Qs']
+Player 3: []
+Table: []
+To win player: 0
+---------------------------------
+Before action: 0
+Current player: 1
+Players in game: [1, 2]
+Direction: +
+Player 0: []
+Player 1: ['Jd', '6c', '5c']
+Player 2: ['Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts', '7d', 'Ac', 'Th', '6s', '2h', '7h', 'Ad', 'Tc', '7c', '2s', '9s', '8d', 'Ks', 'Td', '7s', '3d', '9h', 'Kh', '8c', '3c', '9d', 'Kc', '9c', '3h', '4d', '8h', 'Kd', '8s', '3s', '2c', 'Qs']
+Player 3: []
+Table: ['4c']
+To win player: 0
+---------------------------------
+Before action: 1
+Current player: 2
+Players in game: [1, 2]
+Direction: +
+Player 0: []
+Player 1: ['6c', '5c']
+Player 2: ['Qh', '4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts', '7d', 'Ac', 'Th', '6s', '2h', '7h', 'Ad', 'Tc', '7c', '2s', '9s', '8d', 'Ks', 'Td', '7s', '3d', '9h', 'Kh', '8c', '3c', '9d', 'Kc', '9c', '3h', '4d', '8h', 'Kd', '8s', '3s', '2c', 'Qs']
+Player 3: []
+Table: ['4c', 'Jd']
+To win player: 1
+---------------------------------
+Before action: 1
+Current player: 1
+Players in game: [1, 2]
+Direction: +
+Player 0: []
+Player 1: ['6c', '5c']
+Player 2: ['4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts', '7d', 'Ac', 'Th', '6s', '2h', '7h', 'Ad', 'Tc', '7c', '2s', '9s', '8d', 'Ks', 'Td', '7s', '3d', '9h', 'Kh', '8c', '3c', '9d', 'Kc', '9c', '3h', '4d', '8h', 'Kd', '8s', '3s', '2c', 'Qs']
+Player 3: []
+Table: ['4c', 'Jd', 'Qh']
+To win player: 2
+---------------------------------
+Before action: 0
+Current player: 2
+Players in game: [1, 2]
+Direction: +
+Player 0: []
+Player 1: ['5c']
+Player 2: ['4h', 'Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts', '7d', 'Ac', 'Th', '6s', '2h', '7h', 'Ad', 'Tc', '7c', '2s', '9s', '8d', 'Ks', 'Td', '7s', '3d', '9h', 'Kh', '8c', '3c', '9d', 'Kc', '9c', '3h', '4d', '8h', 'Kd', '8s', '3s', '2c', 'Qs', '6c', 'Qh', 'Jd', '4c']
+Player 3: []
+Table: []
+To win player: 0
+---------------------------------
+Before action: 0
+Current player: 1
+Players in game: [1, 2]
+Direction: +
+Player 0: []
+Player 1: ['5c']
+Player 2: ['Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts', '7d', 'Ac', 'Th', '6s', '2h', '7h', 'Ad', 'Tc', '7c', '2s', '9s', '8d', 'Ks', 'Td', '7s', '3d', '9h', 'Kh', '8c', '3c', '9d', 'Kc', '9c', '3h', '4d', '8h', 'Kd', '8s', '3s', '2c', 'Qs', '6c', 'Qh', 'Jd', '4c']
+Player 3: []
+Table: ['4h']
+To win player: 0
+---------------------------------
+Before action: 0
+Current player: 2
+Players in game: [2]
+Direction: +
+Player 0: []
+Player 1: []
+Player 2: ['Qc', '4s', 'Qd', '5d', 'Js', '5s', 'As', 'Jc', '5h', '2d', '6d', 'Jh', '6h', 'Ah', 'Ts', '7d', 'Ac', 'Th', '6s', '2h', '7h', 'Ad', 'Tc', '7c', '2s', '9s', '8d', 'Ks', 'Td', '7s', '3d', '9h', 'Kh', '8c', '3c', '9d', 'Kc', '9c', '3h', '4d', '8h', 'Kd', '8s', '3s', '2c', 'Qs', '6c', 'Qh', 'Jd', '4c']
+Player 3: []
+Table: ['4h', '5c']
+To win player: 0
+---------------------------------
+2
